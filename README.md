@@ -1,5 +1,6 @@
 #  Challenge LiterAlura
-<img width="329" alt="Captura de tela 2024-07-10 125432" src="https://github.com/devwagnerdw/challenge-literalura/assets/103940637/d17009da-f6dc-464c-8f13-18aa2f750ee2">
+![badge literalura](https://github.com/devwagnerdw/challenge-literalura/assets/103940637/a5c22d89-8e81-4f9d-8c04-792f21b105bf)
+
 
 ## 💻 Sobre o projeto
 O LiterAlura é um projeto de linha de comando voltado para a gestão e consulta de livros e autores, desenvolvido para proporcionar uma experiência eficiente e organizada na busca e listagem de informações literárias diretamente pelo terminal.
